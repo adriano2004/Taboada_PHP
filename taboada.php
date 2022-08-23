@@ -4,7 +4,7 @@
         margin-right: auto;
     }
 
-    td,tr{
+    tr{
 
         align: center;
         border: 3px solid #96D4D4;
